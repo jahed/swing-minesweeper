@@ -9,7 +9,6 @@ This was made a while ago (around 2010) without any VCS so the commit timestamps
 ```sh
 cd src
 javac minesweeper/Main.java
-
 ```
 
 ###Run
